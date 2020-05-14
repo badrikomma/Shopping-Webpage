@@ -15,7 +15,7 @@
  }
  .img_container{
     width: fit-content;
-    height: fit-content;
+    height: auto;
 }
  .ad_cover_buttons{
      background: url('/assets/images/sale.jpg') no-repeat center;
@@ -28,7 +28,6 @@
  .overlay{
     position: relative;
     top: 60%;
-    /* left: 8%; */
     overflow-x: hidden;
 }
 .button{
